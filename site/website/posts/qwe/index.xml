@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<savedAsDraft>true</savedAsDraft>
+	<content-type>/page/post</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ebfd</objectGroupId>
+	<objectId>ebfd5b47-112b-cf55-d018-3c99b9405f25</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>qwe</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<internal-name>qweqwe</internal-name>
+	<title_t>qweqwe</title_t>
+	<description_t>qweqwe</description_t>
+	<category_s>Cats</category_s>
+	<body_html>&lt;p&gt;qweqwewqewqeqw&lt;/p&gt;</body_html>
+	<createdDate>2020-10-27T12:32:41.309Z</createdDate>
+	<createdDate_dt>2020-10-27T12:32:41.309Z</createdDate_dt>
+	<lastModifiedDate>2020-10-27T12:32:41.309Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-27T12:32:41.309Z</lastModifiedDate_dt>
+</page>
