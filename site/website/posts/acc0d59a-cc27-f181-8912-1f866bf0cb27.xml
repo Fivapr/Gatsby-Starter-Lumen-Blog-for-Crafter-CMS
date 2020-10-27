@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/test</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>acc0</objectGroupId>
+	<objectId>acc0d59a-cc27-f181-8912-1f866bf0cb27</objectId>
+	<file-name>acc0d59a-cc27-f181-8912-1f866bf0cb27.xml</file-name>
+	<internal-name>чывямывмыв</internal-name>
+	<image_s/>
+	<createdDate>2020-10-27T14:18:36.111Z</createdDate>
+	<createdDate_dt>2020-10-27T14:18:36.111Z</createdDate_dt>
+	<lastModifiedDate>2020-10-27T14:18:36.111Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-27T14:18:36.111Z</lastModifiedDate_dt>
+</component>
